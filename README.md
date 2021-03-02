@@ -5,7 +5,7 @@ It is based on the following bootstrap template: https://github.com/startbootstr
 It can be hosted locally or on a webserver.
 
 
-=================== LICENSE =============================================================================
+=================== LICENSE ============================
 
 
 MIT License
